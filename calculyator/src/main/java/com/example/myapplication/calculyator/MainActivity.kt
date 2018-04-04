@@ -19,7 +19,7 @@ import kotlinx.android.synthetic.main.activity_second.*
     }
 
     fun toastMe(view: View){
-        val myToast = Toast.makeText(this, "Hello Toast!", Toast.LENGTH_SHORT)
+        val myToast = Toast.makeText(this, "Hello  Toast!", Toast.LENGTH_SHORT)
         myToast.show()
     }
 
