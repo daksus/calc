@@ -1,0 +1,3 @@
+<resources>
+    <string name="random_heading">Число между 0 и %1d</string>
+</resources>
